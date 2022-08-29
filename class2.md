@@ -75,5 +75,9 @@ _Usually, the text editors that come on your computer don’t have many features
 
 # The Command Line
 
+[The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+
+
 
 [https://chrisjohnston1986.github.io/reading-notes/class2](https://chrisjohnston1986.github.io/reading-notes/class2)
