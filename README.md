@@ -11,4 +11,4 @@ Growth mindset is the ability to overcome obstables and persevere.
 - **Trust the process**
 - **No one was good when they started learning it.**
 
-Link to My Github profile: (https://github.com/chrisjohnston1986)
+[My Github](https://github.com/chrisjohnston1986)
