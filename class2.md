@@ -81,9 +81,31 @@ error and you can’t find it. As well as making your text easier to read._
 
 [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
+## Where are we?
+
+## What's in our current location?
+
+
+
 # More About Files!
 
 [More About Files!](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
+## Everything is a file
+
+## Linux is an extensionless system
+
+## Linux is case sensitive
+
+## Spaces in names
+
+### Quotes
+
+### Escape Characters
+
+## Hidden files and directories
+
+# Article Review
 
 
 [https://chrisjohnston1986.github.io/reading-notes/class2](https://chrisjohnston1986.github.io/reading-notes/class2)
