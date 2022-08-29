@@ -87,6 +87,8 @@ error and you can’t find it. As well as making your text easier to read._
 ## Shortcuts
 
 
+
+
 # Basic Navigation
 
 [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
@@ -103,7 +105,9 @@ error and you can’t find it. As well as making your text easier to read._
 
 ## Let's move around a bit
 
-### Article Review
+### _Article Review_
+
+
 
 
 
@@ -126,7 +130,9 @@ error and you can’t find it. As well as making your text easier to read._
 
 ## Hidden files and directories
 
-### Article Review
+### _Article Review_
+
+
 
 
 [https://chrisjohnston1986.github.io/reading-notes/class2](https://chrisjohnston1986.github.io/reading-notes/class2)
