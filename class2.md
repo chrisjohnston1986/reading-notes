@@ -43,7 +43,13 @@ error and you can’t find it. As well as making your text easier to read._
 
 _Usually, the text editors that come on your computer don’t have many features_
 
+***If using text editors on your computer:***
 
+-_Make sure that when you use the text editor that comes on your computer, that you’re creating code in a plain text editor. You should not see options for making text bold, underlined, or italic. Plain text has no formatting options. There is no need to bold, underline or italicize code. If you can make your text bold, underlined or italic, then you might need to change a setting somewhere. Please make sure you’re coding in plain text. 
+
+-_Also, make sure that when you use the text editor that comes on your computer, that you first create a folder on your computer somewhere (maybe on your Desktop, for example) to store your entire website. As you create new documents with the text editor that comes on your computer, save those files in the appropriate folders or sub-folders within the main website folder._ 
+
+-_Also, please make sure that when you’re saving your file, that they have the appropriate extension at the end of the file names. For example, your main HTML file should be called, “index.html.” Your CSS file should be called something like “style.css.” The filename isn’t as important as the extension (the “.html” and the “.css”)._
 
 ## Third-Party Options
 
