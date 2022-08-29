@@ -21,6 +21,7 @@ to build a web site._
 - ability to choose fom a healthy selection of extension available, when you need them
 
 **Code Completion** 
+
 _Code completion allows you to start typing, and the code completion
 feature will display possible suggestions based on what you originally
 typed. This saves you time by providing a choice, rather than allowing
