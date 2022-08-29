@@ -5,10 +5,10 @@
 
 Growth mindset is the ability to overcome obstables and persevere.
 
-3 reminders, which will serve to guide myself, in keeping the growth mindset:
+3 reminders, *which will serve to guide myself*, in keeping the growth mindset:
 
-- Time is short, keep going!
-- Trust the process
-- No one was good when they stated learning it.
+- **Time is short, keep going!**
+- **Trust the process**
+- **No one was good when they stated learning it.**
 
 Link to My Github pofile: https://github.com/chrisjohnston1986
