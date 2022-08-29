@@ -65,6 +65,13 @@ _Usually, the text editors that come on your computer don’t have many features
 
 ## The Difference Between Text Editors and IDEs
 
+- _A text editor kind of gives away what it does in the title—it edits text. It also manages text, and manages files._
+
+***see above examples***
+
+- _An IDE (Integrated Development Environment) is really a suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package._
+
+***think "Microsoft Outlook"***
 
 
 [https://chrisjohnston1986.github.io/reading-notes/class2](https://chrisjohnston1986.github.io/reading-notes/class2)
