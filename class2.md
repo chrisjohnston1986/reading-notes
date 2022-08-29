@@ -43,7 +43,6 @@ error and you can’t find it. As well as making your text easier to read._
 
 **Linux computers:** _Gedit_
 
-
 > **Usually, the text editors that come on your computer don’t have many features.**
 
 ***If using text editors on your computer:***
@@ -73,9 +72,20 @@ error and you can’t find it. As well as making your text easier to read._
 
 ***think "Microsoft Outlook"***
 
+
+
 # The Command Line
 
 [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+## What are they exactly?
+
+## Opening a terminal
+
+## The Shell, Bash
+
+## Shortcuts
+
 
 # Basic Navigation
 
@@ -84,6 +94,17 @@ error and you can’t find it. As well as making your text easier to read._
 ## Where are we?
 
 ## What's in our current location?
+
+## Paths
+
+**Absolute and Relative Paths**
+
+**More on paths**
+
+## Let's move around a bit
+
+### Article Review
+
 
 
 
@@ -99,13 +120,13 @@ error and you can’t find it. As well as making your text easier to read._
 
 ## Spaces in names
 
-### Quotes
+**Quotes**
 
-### Escape Characters
+**Escape Characters**
 
 ## Hidden files and directories
 
-# Article Review
+### Article Review
 
 
 [https://chrisjohnston1986.github.io/reading-notes/class2](https://chrisjohnston1986.github.io/reading-notes/class2)
