@@ -38,8 +38,11 @@ error and you can’t find it. As well as making your text easier to read._
 ## Using The Software That Already Comes With Your Computer?
 
 **Mac computers:** _Text Edit_
+
 **Windows computers:** _Notepad_
+
 **Linux computers:** _Gedit_
+
 
 _Usually, the text editors that come on your computer don’t have many features_
 
