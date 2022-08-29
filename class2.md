@@ -77,7 +77,13 @@ _Usually, the text editors that come on your computer don’t have many features
 
 [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
+# Basic Navigation
 
+[Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
+# More About Files!
+
+[More About Files!](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 
 [https://chrisjohnston1986.github.io/reading-notes/class2](https://chrisjohnston1986.github.io/reading-notes/class2)
