@@ -20,6 +20,8 @@
 
 **Distributed Version Control:** Distributed Version Control systems (DVCS) addresses the major vulnerability of the CVS: the server as a single point of failure. If a CVS goes down, collaborators cannot work with each other on a file or save changes and new versions. Also, in the event of corruption of a central database’s hard disk — with the absence of backups — all work will be lost, except for any portions on local machines. To prevent this type of catastrophic loss, a DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information. Because the DVCS allows for multiple mirrored repositories, programmers working in teams can collaborate with each other in various ways to complete a joint project, which enables the use of various simultaneous workflows.
 
+&nbsp;
+
 ## What is Git?
 
 > _Git is a Distributed Version Control system (DVCS) which is made of of file “snapshots”. It mostly uses local resources (local operations), not relying on a server or internet connection. Every change that is made to a file is tracked by Git. As the gatekeeper, Git will always detect file corruption or loss of information in transit. Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost._
