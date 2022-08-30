@@ -1,11 +1,13 @@
 # Class 2 - Reading Notes
 
-
+&nbsp;
+&nbsp;
 
 # The Coder's Computer
   
 [Choosing a Text Editor - The Older Coder](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
+&nbsp;
 
 > _choosing a text editor ends up being a very personal choice_
 
@@ -75,13 +77,15 @@ error and you can’t find it. As well as making your text easier to read._
 
 ***think "Microsoft Outlook"***
 
- 
+ &nbsp;
+ &nbsp;
 
 
 # The Command Line
 
 [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
+&nbsp;
 
 ## What are they exactly?
 
@@ -113,6 +117,8 @@ error and you can’t find it. As well as making your text easier to read._
 
 > _When you enter commands, they are actually stored in a history. You can traverse this history using the up and down arrow keys. So don't bother re-typing out commands you have previously entered, you can usually just hit the up arrow a few times. You can also edit these commands using the left and right arrow keys to move the cursor where you want._
 
+&nbsp;
+&nbsp;
 
 # Basic Navigation
 
@@ -165,6 +171,8 @@ error and you can’t find it. As well as making your text easier to read._
 
 > _**Tab completion:** When you start typing a path (anywhere on the command line, you're not just limited to certain commands) you may hit the Tab key on your keyboard at any time which will invoke an auto complete action. If nothing happens then that means there are several possibilities. If you hit Tab again it will show you those possibilities. You may then continue typing and hit Tab again and it will again try to auto complete for you._
 
+&nbsp;
+&nbsp;
 
 # More About Files!
 
@@ -199,5 +207,7 @@ error and you can’t find it. As well as making your text easier to read._
 
 ### _Article Review_
 
+&nbsp;
+&nbsp;
 
 [https://chrisjohnston1986.github.io/reading-notes/class2](https://chrisjohnston1986.github.io/reading-notes/class2)
