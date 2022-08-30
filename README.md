@@ -1,4 +1,4 @@
-# _Reading Notes_ for Code Fellows!
+# _Reading Notes_ for **Code Fellows**
 > _**-Created by: Chris Johnston (he/him)**_
 
 ## About Me
@@ -8,10 +8,10 @@
 
 Growth mindset is the ability to overcome obstables and persevere.
 
-3 reminders, *which will serve to guide myself*, in keeping the growth mindset:
+A few reminders, *which will serve to guide myself*, in keeping the growth mindset:
 
 - **Time is short, keep going!**
-- **Trust the process**
-- **No one was good when they started learning it.**
+- **Skills are built, not born.**
+- **Challenges are chances to grow.** _The more you do, the more you learn._ **Accept opportunities that push you out of your comfort zone.**
 
 [My Github](https://github.com/chrisjohnston1986)
