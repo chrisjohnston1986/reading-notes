@@ -177,7 +177,7 @@ You can add emphasis by making text **bold** or _italic._
 
 **Characters you can escape**
 
-> _The following may be escaped: \`*{}<>[]()#+-.!|_
+> The following may be escaped: \`*{}<>[]()#+-.!|
 
 ## HTML
 
