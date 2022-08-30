@@ -1,7 +1,10 @@
-# My Code Fellows Reading Notes!
-*Where I will put all the notes for my reading assignments (hint hint, wink wink).*
+# _Reading Notes_ for Code Fellows!
+> _**-Created by: Chris Johnston (he/him)**_
 
-Hi, my name is _Chris_. I like music and performing.
+## About Me
+
+> _I am a former music educator, from TN. I am married to my partner, Julie (2017), and we reside in Clarksville, TN. I have been teaching since 2011, but grew up in a family of educators, so the environment has been a lifelong presence. In my spare time, I invest a lot of time/effort into coordination/programming/designing pageantry arts performances. These efforts have been mainstay, in my life, since 2005. Due to Covid-19, my previous school system "evolved" my job role, into a Math RTI supplemental position, instead of only music classes. That seemed as good a time as any to look into another path, and I'm here for it :+1: as I've been curious about a potential career shift for quite a while._
+
 
 Growth mindset is the ability to overcome obstables and persevere.
 
