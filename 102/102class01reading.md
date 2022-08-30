@@ -86,7 +86,7 @@
 
 ## HTML
 
-**HTML Best Practices
+**HTML Best Practices**
 
 &nbsp;
 &nbsp;
