@@ -91,6 +91,17 @@ The local Git repository has three components:
 
 > After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
 
+## ACP
+ACP refers to the process of ADDING, COMMITING, and PUSHING changes from your local drive to the live project.
+
+- Clone file from GitHub with ***git clone (URL)***
+- Open VSC with ***code .***
+- **ADD** changes to your file in VSC, then Ctrl+S to Save
+- In the Terminal,  ***git add (name of file that was changed)*** 
+- Check status with ***git status***
+- **COMMIT** changes and leave a message ***git commit -m "leave a PUBLIC informational message here"***
+- To **PUSH** changes to live site, use ***git push origin main***
+
 &nbsp;
 &nbsp;
 
