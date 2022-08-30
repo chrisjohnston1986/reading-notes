@@ -229,4 +229,4 @@ _**Linux sees these all as distinct and separate files.**_
 &nbsp;
 &nbsp;
 
-[https://chrisjohnston1986.github.io/reading-notes/102class02reading](https://chrisjohnston1986.github.io/reading-notes/102class02reading)
+[https://chrisjohnston1986.github.io/reading-notes/102class02reading](https://chrisjohnston1986.github.io/reading-notes/102/102class02reading.html)
