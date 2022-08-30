@@ -1,5 +1,5 @@
-# _Reading Notes_ for **Code Fellows**
-_**-Created by: Chris Johnston (he/him)**_
+# **Code Fellows - _Reading Notes_**
+_Created by:_ **Chris Johnston (he/him)**
 
 <hr>
 
@@ -11,14 +11,14 @@ _**-Created by: Chris Johnston (he/him)**_
   
   **Code 102**, _Intro to Software Development_ | **Code 201**, _Foundations of Software Development_ 
 ------------ | -------------
-[Class 01](102/102class01reading.md) | COMING SOON
-[Class 02](102/102class02reading.md) | COMING SOON
-Class 03 | COMING SOON
-Class 04 | COMING SOON
-Class 05 | COMING SOON
-Class 06 | COMING SOON
-Class 07 | COMING SOON
-Class 08 | COMING SOON
+[Class 01](102/102class01reading.md) | -
+[Class 02](102/102class02reading.md) | -
+Class 03 | -
+Class 04 | -
+Class 05 | -
+Class 06 | -
+Class 07 | -
+Class 08 | -
 
 <hr>
 
