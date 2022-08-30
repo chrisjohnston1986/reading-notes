@@ -26,11 +26,11 @@
 
 _Files in Git can reside in three main states:_
 
-**committed:** Data is securely stored in a local database.
+**committed:** _Data is securely stored in a local database._
 
-**modified:** File has been changed but not committed to the database.
+**modified:** _File has been changed but not committed to the database._
 
-**staged:** Flagged a file’s changed version to be committed in the next snapshot
+**staged:** _Flagged a file’s changed version to be committed in the next snapshot._
 
 &nbsp;
 &nbsp;
@@ -51,24 +51,39 @@ _Files in Git can reside in three main states:_
 
 ## Importing
 To import an existing project or directory:
+
 - Switch to target project's directory `cd`
 - Use `git init` command
 - To start tracking these files
+
 > ___git add *.c___   
 > ***git add LICENSE***   
 >  ***git commit -m "add a message"***
 
 ## Cloning
+
 Create a copy of a Git repository
 >***git clone(URL)***
-To clone into a different directory, add the name after the URL
+To clone into a different directory, add the name after the URL.
 
 ## Workflow
+
+**Local Repository Structure**
+
 The local Git repository has three components:
->**Working Directory** ===> **Index** ===> **Head**
+> **Working Directory**   ===>   **Index**   ===>   **Head**
+
 - The Working Directory is where the actual files are located
 - The Index is used for staging changes
 - The Head points to the most recent commit
+
+**Saving Changes**
+
+**tracked:** _Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot._
+
+**untracked:** _Untracked files were not in the last snapshot and do not currently reside in the staging area._
+
+> After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
 
 &nbsp;
 &nbsp;
