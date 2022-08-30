@@ -75,18 +75,12 @@ error and you can’t find it. As well as making your text easier to read._
 
 ***think "Microsoft Outlook"***
 
-  
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+ 
 
 
 # The Command Line
 
 [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
-  
-  <p>&nbsp;<p>
 
 
 ## What are they exactly?
@@ -119,19 +113,11 @@ error and you can’t find it. As well as making your text easier to read._
 
 > _When you enter commands, they are actually stored in a history. You can traverse this history using the up and down arrow keys. So don't bother re-typing out commands you have previously entered, you can usually just hit the up arrow a few times. You can also edit these commands using the left and right arrow keys to move the cursor where you want._
 
-  
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 
 # Basic Navigation
 
 [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
   
-  <p>&nbsp;<p>
-
 
 ## Where are we?
 
@@ -180,20 +166,10 @@ error and you can’t find it. As well as making your text easier to read._
 > _**Tab completion:** When you start typing a path (anywhere on the command line, you're not just limited to certain commands) you may hit the Tab key on your keyboard at any time which will invoke an auto complete action. If nothing happens then that means there are several possibilities. If you hit Tab again it will show you those possibilities. You may then continue typing and hit Tab again and it will again try to auto complete for you._
 
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-
-
 # More About Files!
 
 [More About Files!](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
   
-  <p>&nbsp;<p>
-
 
 ## Everything is a file
 
@@ -222,13 +198,6 @@ error and you can’t find it. As well as making your text easier to read._
 ## Hidden files and directories
 
 ### _Article Review_
-
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
 
 
 [https://chrisjohnston1986.github.io/reading-notes/class2](https://chrisjohnston1986.github.io/reading-notes/class2)
