@@ -176,13 +176,15 @@ error and you can’t find it. As well as making your text easier to read._
 
 ## Linux is an extensionless system
 
-> _**file extension:** normally a set of 2 - 4 characters after a full stop at the end of a file, which denotes the type of file.
+> _**file extension:** normally a set of 2 - 4 characters after a full stop at the end of a file, which denotes the type of file._
 
   - **file.exe:** an executable file, or program
   - **file. txt:** a plain text file
   - **file.png, file.gif, file.jpg:** an image
 
-> _Under Linux the system actually ignores the extension and looks inside the file to determine the type of file/_
+> _Under Linux the system actually ignores the extension and looks inside the file to determine the type of file._
+
+> _It can sometimes be hard to identify the type of file. There is a command called **file** which we can use to find this out. **file [path]**_
 
 ## Linux is case sensitive
 
