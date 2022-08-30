@@ -53,3 +53,42 @@
 **Unodered Lists**
 
 **Adding Elements in Lists**
+
+## Code
+
+**Escaping Backticks**
+
+**Code Blocks**
+
+## Horizontal Rules
+
+**Horizontal Rule Best Practices**
+
+## Links
+
+**Adding Titles**
+
+**URLs and Email Addresses**
+
+**Formatting Links**
+
+**Reference Style Links**
+
+**Links Best Practices**
+
+## Images
+
+**Linking Images**
+
+## Escaping Characters
+
+**Characters you can escape**
+
+## HTML
+
+**HTML Best Practices
+
+&nbsp;
+&nbsp;
+
+[]()
