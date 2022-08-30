@@ -126,7 +126,7 @@ error and you can’t find it. As well as making your text easier to read._
 
 **ls**
 
-> _**List:** 
+> _**List:**_ 
 
 ## Paths
 
@@ -136,7 +136,7 @@ error and you can’t find it. As well as making your text easier to read._
 
 > _Whenever we refer to a file or directory we are using one of these paths. Whenever we refer to a file or directory, we can, in fact, use either type of path (either way, the system will still be directed to the same location)._
 
-> _To begin with, we have to understand that the file system under linux is a hierarchical structure. At the very top of the structure is what's called the ***root*** directory. It is denoted by a single slash ( / ). It has subdirectories, they have subdirectories and so on. Files may reside in any of these directories.
+> _To begin with, we have to understand that the file system under linux is a hierarchical structure. At the very top of the structure is what's called the ***root*** directory. It is denoted by a single slash ( / ). It has subdirectories, they have subdirectories and so on. Files may reside in any of these directories._
 
 > _**Absolute path:** specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )_
 
