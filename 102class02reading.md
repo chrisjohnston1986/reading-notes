@@ -1,4 +1,4 @@
-[Johnston - Reading Notes - Home](../README.md)
+[Johnston - Reading Notes - Home](https://chrisjohnston1986.github.io/reading-notes/)
 
 # Code 102, _Intro to Software Development_ 
 **Class 02 - Reading Notes**
