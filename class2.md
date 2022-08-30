@@ -201,7 +201,7 @@ error and you can’t find it. As well as making your text easier to read._
 
 > _This is very important and a common source of problems for people new to Linux. Other systems such as Windows are case insensitive when it comes to referring to files. Linux is not like this. As such it is possible to have two or more files and directories with the same name but letters of different case._
 
-**_Linux sees these all as distinct and separate files.**_
+_**Linux sees these all as distinct and separate files.**_
 
 > _Also, be aware of case sensitivity when dealing with command line options. For instance with the command ls there are two options s and S both of which do different things. A common mistake is to see an option which is upper case but enter it as lower case and wonder why the output doesn't match your expectation._
 
