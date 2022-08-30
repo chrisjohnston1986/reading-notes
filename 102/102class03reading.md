@@ -92,7 +92,7 @@ The local Git repository has three components:
 > After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
 
 ## ACP
-ACP refers to the process of ADDING, COMMITING, and PUSHING changes from your local drive to the live project.
+ACP refers to the process of ADDING, COMMITTING, and PUSHING changes from your local drive to the live project.
 
 - Clone file from GitHub with ***git clone (URL)***
 - Open VSC with ***code .***
