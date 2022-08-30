@@ -74,6 +74,7 @@ error and you can’t find it. As well as making your text easier to read._
 
 
 
+
 # The Command Line
 
 [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
@@ -109,24 +110,51 @@ error and you can’t find it. As well as making your text easier to read._
 > _When you enter commands, they are actually stored in a history. You can traverse this history using the up and down arrow keys. So don't bother re-typing out commands you have previously entered, you can usually just hit the up arrow a few times. You can also edit these commands using the left and right arrow keys to move the cursor where you want._
 
 
+
+
 # Basic Navigation
 
 [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
 ## Where are we?
 
+**pwd**
+
+> _**Print Working Directory:** identifies your current or present working directory._
+
 ## What's in our current location?
+
+**ls**
+
+> _**List:** 
 
 ## Paths
 
+> _Whenever we refer to either a file or directory on the command line, we are in fact referring to a path. ie. A path is a means to get to a particular file or directory on the system._
+
 **Absolute and Relative Paths**
+
+> _Whenever we refer to a file or directory we are using one of these paths. Whenever we refer to a file or directory, we can, in fact, use either type of path (either way, the system will still be directed to the same location)._
+
+> _To begin with, we have to understand that the file system under linux is a hierarchical structure. At the very top of the structure is what's called the ***root*** directory. It is denoted by a single slash ( / ). It has subdirectories, they have subdirectories and so on. Files may reside in any of these directories.
+
+> _**Absolute path:** specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )_
+
+> _**Relative path:** specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash._
 
 **More on paths**
 
+
+
 ## Let's move around a bit
 
-### _Article Review_
+**cd [location]:**
 
+## Shortcuts
+
+> _If you run the command cd without any arguments then it will always take you back to your home directory.The command cd may be run without a location as we saw in the shortcut above but usually will be run with a single command line argument which is the location we would like to change into. The location is specified as a path and as such may be specified as either an absolute or relative path and using any of the path building blocks mentioned above._
+
+> _**Tab completion:** When you start typing a path (anywhere on the command line, you're not just limited to certain commands) you may hit the Tab key on your keyboard at any time which will invoke an auto complete action. If nothing happens then that means there are several possibilities. If you hit Tab again it will show you those possibilities. You may then continue typing and hit Tab again and it will again try to auto complete for you._
 
 
 
