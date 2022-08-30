@@ -1,7 +1,9 @@
-# Class 2 - Reading Notes
+[Johnston - Reading Notes - Home](../README.md)
+
+# Code 102, _Intro to Software Development_ 
+**Class 02 - Reading Notes**
 
 &nbsp;
-[Home](../README.md)
 &nbsp;
 
 # The Coder's Computer
