@@ -111,7 +111,7 @@
 
 **What the code does, or what effect it has.**
 
-> _In HTML, a header is a semantic element. It emphasises the text inside of the header tags to appear as a header. Any text can be made to look this way by styling, but it will not function correctly without the proper semantics. "HTML should be coded to represent the data that will be populated and not based on its default presentation styling." CSS is for presentation._
+> _In HTML, a header is a semantic element. It emphasizes the text inside of the header tags to appear as a header. Any text can be made to look this way by styling, but it will not function correctly without the proper semantics. "HTML should be coded to represent the data that will be populated and not based on its default presentation styling." CSS is for presentation._
 
 &nbsp;
 
