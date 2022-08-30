@@ -156,9 +156,9 @@ You can add emphasis by making text **bold** or _italic._
 
 > _This style of link, makes URLs easier to read in markdown. The first segment (which is easily readable), makes **reference** to the second segment, the longer URL, which can be embedded anywhere in the markdown._
 
-> _First segment: [URL Reference][label]_
-> _Second segment: [label]: <URL> "Optional Title"_
-
+> **First segment:** [URL Reference][label] <br>
+> **Second segment:** [label]: <URL> "Optional Title" <br> 
+ 
 **Links Best Practices**
 
 > _For compatibility, use %20 in place of any spaces in the URL text._
