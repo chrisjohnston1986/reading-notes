@@ -144,17 +144,17 @@ error and you can’t find it. As well as making your text easier to read._
 
 **More on paths**
 
-> _**~ (tilde):** This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or ~/Documents_
+> _**~** **(tilde):** This is a shortcut for your home directory. eg, if your home directory is /home/ryan then you could refer to the directory Documents with the path /home/ryan/Documents or /Documents._
 
-> _**. (dot):** This is a reference to your current directory._
+> _**.** **(dot):** This is a reference to your current directory._
 
-> _**.. (dotdot):** This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory._
+> _**..** **(dotdot):** This is a reference to the parent directory. You can use this several times in a path to keep going up the hierarchy. eg if you were in the path /home/ryan you could run the command ls ../../ and this would do a listing of the root directory._
 
 > _You can use any method you like to refer to a location. Whenever you refer to a file or directory on the command line you are actually referring to a path and your path can be constructed using any of these elements. The best approach is whichever is the most convenient for you._
 
 ## Let's move around a bit
 
-**cd [location]:** In order to move around in the system we use a command called cd, which stands for **change directory**. 
+> _**cd [location]:** In order to move around in the system we use a command called cd, which stands for **change directory**._ 
 
 ## Shortcuts
 
@@ -172,7 +172,17 @@ error and you can’t find it. As well as making your text easier to read._
 
 ## Everything is a file
 
+> _We need to appreciate that under the hood, everything is actually a file. A text file is a file, a directory is a file, your keyboard is a file (one that the system reads from only), your monitor is a file (one that the system writes to only) etc._ 
+
 ## Linux is an extensionless system
+
+> _**file extension:** normally a set of 2 - 4 characters after a full stop at the end of a file, which denotes the type of file.
+
+  - **file.exe:** an executable file, or program
+  - **file. txt:** a plain text file
+  - **file.png, file.gif, file.jpg:** an image
+
+> _Under Linux the system actually ignores the extension and looks inside the file to determine the type of file/_
 
 ## Linux is case sensitive
 
