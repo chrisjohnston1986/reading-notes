@@ -33,7 +33,7 @@ Class 08 | -
 [Click to view my GitHub portfolio page!](https://github.com/chrisjohnston1986)
 
 
-Growth mindset is the ability to overcome obstables and persevere.
+Growth mindset is the ability to overcome obstacles and persevere.
 
 A few reminders, *which will serve to guide myself*, in keeping the growth mindset:
 
