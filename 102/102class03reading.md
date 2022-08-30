@@ -66,9 +66,9 @@ Create a copy of a Git repository
 >***git clone(URL)***
 To clone into a different directory, add the name after the URL.
 
-## Workflow
+# Workflow
 
-**Local Repository Structure**
+## Local Repository Structure
 
 The local Git repository has three components:
 > **Working Directory**   ===>   **Index**   ===>   **Head**
