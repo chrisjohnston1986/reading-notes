@@ -24,7 +24,7 @@
 
 > _Git is a Distributed Version Control system (DVCS) which is made of of file “snapshots”. It mostly uses local resources (local operations), not relying on a server or internet connection. Every change that is made to a file is tracked by Git. As the gatekeeper, Git will always detect file corruption or loss of information in transit. Git is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost._
 
-_Files in Git can reside in three main states:_ **committed, modified and staged.**
+_Files in Git can reside in three main states:_
 
 **committed:** Data is securely stored in a local database.
 
@@ -40,6 +40,35 @@ _Files in Git can reside in three main states:_ **committed, modified and staged
 # History of Git
 
 > _Git traces its roots to the open source software project Linux kernel. Developers of this project began using a DVCS called BitKeeper in 2002. In 2005, many of these developers stopped using this DVCS due to tension between the Linux kernel community and the company behind BitKeeper’s and the eventual revocation of the DVCS’ gratis status. Subsequently, Linus Torvalds, the chief architect of the Linux kernel, began creating Git. With the intention of creating a DVCS with a workflow design similar to that of BitKeeper, which was also fast, Git allowed for non-linear development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, and had a simple design. Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world._
+
+<hr>
+
+&nbsp;
+
+# Setting up a Git Repository
+
+&nbsp;
+
+## Importing
+To import an existing project or directory:
+- Switch to target project's directory `cd`
+- Use `git init` command
+- To start tracking these files
+> ___git add *.c___   
+> ***git add LICENSE***   
+>  ***git commit -m "add a message"***
+>  
+## Cloning
+Create a copy of a Git repository
+>***git clone(URL)***
+To clone into a different directory, add the name after the URL
+
+## Workflow
+The local Git repository has three components:
+>**Working Directory** ===> **Index** ===> **Head**
+- The Working Directory is where the actual files are located
+- The Index is used for staging changes
+- The Head points to the most recent commit
 
 &nbsp;
 &nbsp;
