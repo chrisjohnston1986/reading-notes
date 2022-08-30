@@ -77,7 +77,7 @@ The local Git repository has three components:
 - The Index is used for staging changes
 - The Head points to the most recent commit
 
-**Saving Changes**
+## Saving Changes
 
 **tracked:** _Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot._
 
