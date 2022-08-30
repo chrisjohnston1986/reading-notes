@@ -66,7 +66,11 @@ Create a copy of a Git repository
 >***git clone(URL)***
 To clone into a different directory, add the name after the URL.
 
+&nbsp;
+
 # Workflow
+
+&nbsp;
 
 ## Local Repository Structure
 
