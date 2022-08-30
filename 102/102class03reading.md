@@ -57,7 +57,7 @@ To import an existing project or directory:
 > ___git add *.c___   
 > ***git add LICENSE***   
 >  ***git commit -m "add a message"***
->  
+
 ## Cloning
 Create a copy of a Git repository
 >***git clone(URL)***
