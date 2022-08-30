@@ -1,13 +1,13 @@
 [Johnston - Reading Notes - Home](https://chrisjohnston1986.github.io/reading-notes/)
 
 # Code 102, _Intro to Software Development_ 
-**Class 02 - Reading Notes**
+**Class 03 - Reading Notes**
 
 &nbsp;
 &nbsp;
 
-# The Coder's Computer
+# Git Tutorial: A Comprehensive Guide
   
-[Choosing a Text Editor - The Older Coder](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+[Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 &nbsp;
