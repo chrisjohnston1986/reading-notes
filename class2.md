@@ -1,6 +1,7 @@
 # Class 2 - Reading Notes
 
 &nbsp;
+[Home](../README.md)
 &nbsp;
 
 # The Coder's Computer
