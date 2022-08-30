@@ -6,9 +6,9 @@
 &nbsp;
 &nbsp;
 
-# Git Tutorial: A Comprehensive Guide
+# The Definitive Guide: How To Make Your First Wireframe
   
-[Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+[The Definitive Guide: How To Make Your First Wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
 
 &nbsp;
 &nbsp;
