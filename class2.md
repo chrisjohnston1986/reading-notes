@@ -1,14 +1,10 @@
 # Class 2 - Reading Notes
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
 # The Coder's Computer
   
 [Choosing a Text Editor - The Older Coder](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
-  
-<p>&nbsp;</p>
 
 
 > _choosing a text editor ends up being a very personal choice_
