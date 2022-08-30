@@ -100,6 +100,30 @@
 [Review from Code 101 - HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 &nbsp;
+
+# Semantics
+
+&nbsp;
+
+> _The term **semantics** refers to the meaning of a piece of code._ 
+
+<br>
+
+**What the code does, or what effect it has.**
+
+<br>
+
+> _In HTML, a header is a semantic element. It emphasises the text inside of the header tags to appear as a header. Any text can be made to look this way by styling, but it will not function correctly without the proper semantics. "HTML should be coded to represent the data that will be populated and not based on its default presentation styling." CSS is for presentation._
+
+&nbsp;
+
+## Some examples of semantic elements
+
+_In HTML, these will be represented as tags._
+
+**article, aside, details, footer, header, main, nav, section, summary, and MANY more.**
+
+&nbsp;
 &nbsp;
 
 [https://chrisjohnston1986.github.io/reading-notes/102class04reading](https://chrisjohnston1986.github.io/reading-notes/102/102class04reading.html)
