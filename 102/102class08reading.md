@@ -8,7 +8,7 @@
 
 # Operators and Loops
   
-[What is Javascript?](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[Website?](#)
 
 &nbsp;
 &nbsp;

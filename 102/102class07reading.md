@@ -71,9 +71,13 @@ _The code inside the function will execute when "something" **invokes** the func
 
 **Function Return**
 
->When JS reaches a `return` statement, the function will stop executing. If the function was invoked from a statement, JS will "return" to execute the code after the invoking statement. Functions often compute a **return value**. The return value is "returned" back to the caller
+>When JS reaches a `return` statement, the function will stop executing. If the function was invoked from a statement, JS will "return" to execute the code after the invoking statement. Functions often compute a **return value**. The return value is "returned" back to the caller.
+
+&nbsp;
+
 > `let x = myFunction(4, 3);   // Function is called, return value will end up in x`
-`function myFunction(a, b) {`
+
+> `function myFunction(a, b) {`
   `return a * b;             // Function returns the product of a and b`
 `}`
 
