@@ -17,8 +17,8 @@ _Created by:_ **Chris Johnston (he/him)**
 [Class 04](102/102class04reading.md) | -
 [Class 05](102/102class05reading.md) | -
 [Class 06](102/102class06reading.md) | -
-Class 07 | -
-Class 08 | -
+[Class 07](102/102class07reading.md) | -
+[Class 08](102/102class08reading.md) | -
 
 <hr>
 
