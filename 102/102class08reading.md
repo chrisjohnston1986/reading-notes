@@ -76,9 +76,11 @@ Summarized from [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Java
 
 ## While Statements
 
-> A `while` statement executes its statements as long as a specified condition evaluates to `true`. A `while` statement looks as follows:
+> A `while` statement executes its statements as long as a specified condition evaluates to `true`. 
 
 &nbsp;
+
+**A `while` statement looks as follows:**
 
 `while` (condition)  
     statement
