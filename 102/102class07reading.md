@@ -101,7 +101,7 @@ More on operators at [W3Schools](https://www.w3schools.com/js/js_operators.asp)
 
 &nbsp;
 
-`=` is the **assignment** operator, _it assignes a value to a variable._
+`=` is the **assignment** operator, _it assigns a value to a variable._
 
 `+`  is the **addition** operator, _it adds numbers._
 
