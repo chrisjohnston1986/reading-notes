@@ -20,7 +20,7 @@
 
 &nbsp;
 
-> **Control flow:** the order in which the computer executes statememts in a script. Generally, code executes from top to bottom unless the code encounters a structure that changes the control flow, such as a conditional or a loop.
+> **Control flow:** the order in which the computer executes statements in a script. Generally, code executes from top to bottom unless the code encounters a structure that changes the control flow, such as a conditional or a loop.
 
 &nbsp;
 
