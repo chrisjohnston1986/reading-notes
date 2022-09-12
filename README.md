@@ -19,12 +19,12 @@ _Created by:_ **Chris Johnston (he/him)**
 [Class 06](102/102class06reading.md)|[Class 06]()|
 [Class 07](102/102class07reading.md)|[Class 07]()|
 [Class 08](102/102class08reading.md)|[Class 08]()|
-|                                    |[Class 09]()|
-|                                    |[Class 10]()|
-|                                    |[Class 11]()|
-|                                    |[Class 12]()|
-|                                    |[Class 13]()|
-|                                    |[Class 14]()|
+|                                    |[Class 09]()
+|                                    |[Class 10]()
+|                                    |[Class 11]()
+|                                    |[Class 12]()
+|                                    |[Class 13]()
+|                                    |[Class 14]()
 |                                    |[Class 15]()|
 
 <hr>
