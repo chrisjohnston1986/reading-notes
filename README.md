@@ -10,7 +10,7 @@ _Created by:_ **Chris Johnston (he/him)**
   Reading Notes</h3>
   
   **Code 102**, _Intro to Software Development_ | **Code 201**, _Foundations of Software Development_ 
-| :--------------------------------: | :-------------------------------: |
+------------ | ------------- 
 [Class 01](102/102class01reading.md)|[Class 01](201/201class01reading.md)|
 [Class 02](102/102class02reading.md)|[Class 02](#)|
 [Class 03](102/102class03reading.md)|[Class 03](#)|
