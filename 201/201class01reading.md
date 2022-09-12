@@ -117,10 +117,15 @@ JavaScript itself is relatively compact, yet very flexible. Developers have writ
 &nbsp;
 
 1)
+
 2)
+
 3)
+
 4)
+
 5)
+
 
 &nbsp;
 &nbsp;
@@ -150,11 +155,17 @@ JavaScript itself is relatively compact, yet very flexible. Developers have writ
 &nbsp;
 
 1)
+
 2)
+
 3)
+
 4)
+
 5)
+
 6)
+
 
 &nbsp;
 &nbsp;
@@ -171,7 +182,9 @@ JavaScript itself is relatively compact, yet very flexible. Developers have writ
 &nbsp;
 
 1)
+
 2)
+
 
 &nbsp;
 &nbsp;
@@ -183,7 +196,9 @@ JavaScript itself is relatively compact, yet very flexible. Developers have writ
 &nbsp;
 
 1)
+
 2)
+
 
 &nbsp;
 &nbsp;
@@ -195,7 +210,9 @@ JavaScript itself is relatively compact, yet very flexible. Developers have writ
 &nbsp;
 
 1)
+
 2)
+
 
 &nbsp;
 &nbsp;
