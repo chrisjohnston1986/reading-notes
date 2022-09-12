@@ -10,15 +10,22 @@ _Created by:_ **Chris Johnston (he/him)**
   Reading Notes</h3>
   
   **Code 102**, _Intro to Software Development_ | **Code 201**, _Foundations of Software Development_ 
------------- | -------------
-[Class 01](102/102class01reading.md) | -
-[Class 02](102/102class02reading.md) | -
-[Class 03](102/102class03reading.md) | -
-[Class 04](102/102class04reading.md) | -
-[Class 05](102/102class05reading.md) | -
-[Class 06](102/102class06reading.md) | -
-[Class 07](102/102class07reading.md) | -
-[Class 08](102/102class08reading.md) | -
+| :--------------------------------: | :--------------------------------: | 
+|[Class 01](102/102class01reading.md)|[Class 01](201/201class01reading.md)|   
+|[Class 02](102/102class02reading.md)|[Class 02](201/201class02reading.md)| 
+|[Class 03](102/102class03reading.md)|[Class 03](201/201class03reading.md)|
+|[Class 04](102/102class04reading.md)|[Class 04](201/201class04reading.md)|
+|[Class 05](102/102class05reading.md)|[Class 05](201/201class05reading.md)|
+|[Class 06](102/102class06reading.md)|[Class 06](201/201class06reading.md)|
+|[Class 07](102/102class07reading.md)|[Class 07](201/201class07reading.md)|
+|[Class 08](102/102class08reading.md)|[Class 08](201/201class08reading.md)|
+|                                    |[Class 09](201/201class09reading.md)|
+|                                    |[Class 10](201/201class10reading.md)|
+|                                    |[Class 11](201/201class11reading.md)|
+|                                    |[Class 12](201/201class12reading.md)|
+|                                    |[Class 13](201/201class13reading.md)|
+|                                    |[Class 14](201/201class14reading.md)|
+|                                    |[Class 15](201/201class15reading.md)|
 
 <hr>
 
