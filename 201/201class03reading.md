@@ -124,4 +124,4 @@ _**Give an example of when a Loop is useful in JavaScript.**_
 &nbsp;
 &nbsp;
 
-[https://chrisjohnston1986.github.io/reading-notes/201class03reading](https://chrisjohnston1986.github.io/reading-notes/201/201class0reading.html)
+[https://chrisjohnston1986.github.io/reading-notes/201class03reading](https://chrisjohnston1986.github.io/reading-notes/201/201class03reading.html)
