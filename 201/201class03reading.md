@@ -106,7 +106,7 @@ _**List five shorthand operators for assignment in javascript and describe what 
 
 _**Read the code below and evaluate the last expression and explain what the result would be and why.**_
 
-    -   .
+    -  when you declare the variable (c) as false, it's a boolean and will result in the entire expression reading false .
 
 _**Describe a real world example of when a conditional statement should be used in a JavaScript program.**_
 
