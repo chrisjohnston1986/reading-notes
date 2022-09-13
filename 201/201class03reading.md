@@ -19,6 +19,9 @@
 
 **Ordered** and **Unordered**
 
+&nbsp;
+&nbsp;
+
 _**When should you use an unordered list in your HTML document?**_
 
     -   . 
@@ -43,6 +46,9 @@ _**Describe two ways you can change the numbers on list items provided by an ord
 
 **The Box Model**
 
+&nbsp;
+&nbsp;
+
 _**Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?**_
 
     -   . 
@@ -61,6 +67,9 @@ _**List and describe the four parts of an HTML elements box as referred to by th
 &nbsp;
 
 **Arrays**, **Operators and Expressions**, **Conditionals**, **Loops**
+
+&nbsp;
+&nbsp;
 
 _**What data types can you store inside of an Array?**_
 
