@@ -22,19 +22,19 @@
 
 &nbsp;
 
-_**?.**_
+_**Why is it important to use semantic elements in our HTML?**_
 
     -   ?. 
 
-_**?.**_
+_**How many levels of headings are there in HTML?**_
 
     -   ?.
  
-_**?**_
+_**What are some uses for the _sup_ and _sub_ elements?**_
 
     -   ?.
 
-_**?**_
+_**When using the _abbr_ element, what attribute must be added to provide the full expansion of the term?**_
 
     -   ?.
 
@@ -47,21 +47,23 @@ _**?**_
 &nbsp;
 &nbsp;
 
-_**?.**_
+_**What are ways we can apply CSS to our HTML?**_
 
     -   ?. 
 
-_**?.**_
+_**Why should we avoid using inline styles?**_
 
     -   ?.
  
-_**?**_
+_**Review the block of code below and answer the following questions:**_
 
-    -   ?.
+    -   What is representing the selector?
+      -
 
-    -   ?.
+    -   Which components are the CSS declarations?
+      -
 
-     -  ?.
+     -  Which components are considered properties?
 
 &nbsp;
 &nbsp;
@@ -72,15 +74,15 @@ _**?**_
 &nbsp;
 &nbsp;
 
-_**?.**_
+_**What data type is a sequence of text enclosed in single quote marks?**_
 
     -   ?. 
 
-_**?.**_
+_**List 4 types of JavaScript operators.**_
 
     -   ?.
  
-_**?**_
+_**Describe a real world Problem you could solve with a Function.**_
 
     -   ?.
 
@@ -89,19 +91,19 @@ _**?**_
 &nbsp;
 &nbsp;
 
-_**?.**_
+_**An if statement checks a __ and if it evaluates to ___, then the code block will execute**_
 
     -   ?. 
 
-_**?.**_
+_**What is the use of an else if?**_
 
     -   ?.
  
-_**?**_
+_**List 3 different types of comparison operators.**_
 
     -   ?.
 
-_**?**_
+_**What is the difference between the logical operator && and ||?**_
 
     -   ?.
 
