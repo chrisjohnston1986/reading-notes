@@ -110,7 +110,7 @@ _**List 3 different types of comparison operators.**_
     -   <= and >= — test if one value is less than or equal to, or greater than or equal to, another.
 
 
-_**What is the difference between the logical operator && and ||?**_
+_**What is the difference between the logical operator &&and||?**_
 
     -   && — AND; allows you to chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true.
 
