@@ -12,7 +12,7 @@ _Created by:_ **Chris Johnston (he/him)**
   **Code 102**, _Intro to Software Development_ | **Code 201**, _Foundations of Software Development_
 ------------ | -------------
 [Class 01](102/102class01reading.md)|[Class 01](201/201class01reading.md)
-[Class 02](102/102class02reading.md)|[Class 02]()
+[Class 02](102/102class02reading.md)|[Class 02](201/201class02reading.md)
 [Class 03](102/102class03reading.md)|[Class 03]()
 [Class 04](102/102class04reading.md)|[Class 04]()
 [Class 05](102/102class05reading.md)|[Class 05]()
