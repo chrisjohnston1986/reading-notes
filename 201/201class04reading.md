@@ -17,7 +17,6 @@
 &nbsp;
 &nbsp;
 
-**Creating Hyperlinks**
 [Creating Hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 
 &nbsp;
@@ -41,10 +40,8 @@ _**What are some ways we can ensure links on our pages are accessible to all rea
 &nbsp;
 &nbsp;
 
-**CSS Layout: Normal Flow**
 [CSS Layout - Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 
-**CSS Layout: Positioning**
 [CSS Layout - Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
 
 &nbsp;
@@ -88,7 +85,7 @@ _**What is the difference between a parameter and an argument?**_
 &nbsp;
 &nbsp; 
 
-**Miscellaneous**
+### Miscellaneous
 
 [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
