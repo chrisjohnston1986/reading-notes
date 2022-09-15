@@ -42,10 +42,10 @@ _**What are some ways we can ensure links on our pages are accessible to all rea
 &nbsp;
 
 **CSS Layout: Normal Flow**
-[CSS Layout: Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
+[CSS Layout - Normal Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow)
 
 **CSS Layout: Positioning**
-[CSS Layout: Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
+[CSS Layout - Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
 
 &nbsp;
 &nbsp;
