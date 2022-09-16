@@ -15,7 +15,7 @@ _Created by:_ **Chris Johnston (he/him)**
 [Class 02](102/102class02reading.md)|[Class 02](201/201class02reading.md)
 [Class 03](102/102class03reading.md)|[Class 03](201/201class03reading.md)
 [Class 04](102/102class04reading.md)|[Class 04](201/201class04reading.md)
-[Class 05](102/102class05reading.md)|[Class 05]()
+[Class 05](102/102class05reading.md)|[Class 05](201/201class05reading.md)
 [Class 06](102/102class06reading.md)|[Class 06]()
 [Class 07](102/102class07reading.md)|[Class 07]()
 [Class 08](102/102class08reading.md)|[Class 08]()
@@ -47,4 +47,3 @@ A few reminders, *which will serve to guide myself*, in keeping the growth minds
 - **Time is short, keep going!**
 - **Skills are built, not born.**
 - **Challenges are chances to grow.** _The more you do, the more you learn._ **Accept opportunities that push you out of your comfort zone.**
-
