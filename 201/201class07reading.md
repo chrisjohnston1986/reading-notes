@@ -20,6 +20,9 @@ _**Explain why we need domain modeling.**_
 
     - Domain Modeling helps run through the problem and solution. When done correctly, it can verify/validate the understanding of the problem and keeps the ability of the site to be updated or changed easily.  
 
+&nbsp;
+&nbsp;
+
 [HTML Table Basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 
 &nbsp;
@@ -34,6 +37,9 @@ _**List and describe 3 different semantic HTML elements used in an HTML `<table>
     -   table, 
     -   table header
     -   table row
+  
+&nbsp;
+&nbsp;
 
 [Introducing Constructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
 
@@ -47,6 +53,9 @@ _**What is a constructor and what are some advantages to using it?**_
 _**How does the term `this` differ when used in an object literal versus when used in a constructor?**_
 
     -   Inside an object literal it refers to the current object it is inside, when used in a constructor, it will be bound to new object in construct and calls upon all occurrences, in the constructor.
+
+&nbsp;
+&nbsp;
 
 [Object Prototypes Using A Constructor](https://ui.dev/beginners-guide-to-javascript-prototype)
 
