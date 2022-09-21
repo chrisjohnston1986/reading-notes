@@ -18,7 +18,7 @@ _Created by:_ **Chris Johnston (he/him)**
 [Class 05](102/102class05reading.md)|[Class 05](201/201class05reading.md)
 [Class 06](102/102class06reading.md)|[Class 06](201/201class06reading.md)
 [Class 07](102/102class07reading.md)|[Class 07](201/201class07reading.md)
-[Class 08](102/102class08reading.md)|[Class 08]()
+[Class 08](102/102class08reading.md)|[Class 08](201/201class08reading.md)
 []()                                |[Class 09]()
 []()                                |[Class 10]()
 []()                                |[Class 11]()
