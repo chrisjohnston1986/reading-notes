@@ -1,7 +1,7 @@
 [Johnston - Reading Notes - Home](https://chrisjohnston1986.github.io/reading-notes/)
 
 # Code 201, _Foundations of Software Development_
-**Class 010 - Reading Notes**
+**Class 10 - Reading Notes**
 
 &nbsp;
 &nbsp;
