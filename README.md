@@ -22,7 +22,7 @@ _Created by:_ **Chris Johnston (he/him)**
 []()                                |[Class 09](201/201class09reading.md)
 []()                                |[Class 10](201/201class10reading.md)
 []()                                |[Class 11](201/201class11reading.md)
-[]()                                |[Class 12]()
+[]()                                |[Class 12](201/201class12reading.md)
 []()                                |[Class 13]()
 []()                                |[Class 14]()
 []()                                |[Class 15]()
